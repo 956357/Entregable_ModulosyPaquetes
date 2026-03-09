@@ -30,7 +30,9 @@ El programa realiza:
 ```bash
 Entregable/
 │
-├── .venv/
+├── Imagenes/
 ├── trabajo_final.py
 ├── ventas_dataset.csv
 └── README.md
+└── analisis_resultados.md
+
